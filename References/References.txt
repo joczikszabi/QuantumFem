@@ -1,0 +1,44 @@
+QUANTUM SYSTEM OF LINEAR EQUATIONS SOLVERS
+
+First introduced:
+*Quantum algorithm for solving linear systems of equations
+https://arxiv.org/abs/0811.3171
+
+Improved versions:
+*Variable time amplitude amplification and a faster quantum algorithm for solving systems of linear equations
+https://arxiv.org/abs/1010.4458
+
+*Quantum algorithm for systems of linear equations with exponentially improved dependence on precision
+https://arxiv.org/abs/1511.02306
+
+Using Euler's method
+*High-order quantum algorithm for solving linear differential equations
+https://arxiv.org/abs/1010.2745
+
+*A quantum algorithm to solve nonlinear differential equations
+https://arxiv.org/abs/0812.4423
+
+FINITE ELEMENT METHOD
+
+*!Finite Element Solution of Boundary Value Problems
+https://www.sciencedirect.com/book/9780120687800/finite-element-solution-of-boundary-value-problems
+
+*!The Mathematical Theory of Finite Element Methods
+https://www.springer.com/gp/book/9780387759333
+
+*The Finite Element Method for Elliptic Problems
+https://books.google.com/books/about/The_Finite_Element_Method_for_Elliptic_P.html?id=TpHfoXnpKvAC
+
+*Simulating Quantum Systems on a Quantum Computer
+https://www.jstor.org/stable/53167
+
+
+QUANTUM FEM
+
+*Preconditioned quantum linear system algorithm
+https://arxiv.org/abs/1301.2340
+
+QUANTUM FDM
+
+*Quantum algorithm and circuit design solving the Poisson equation
+https://arxiv.org/abs/1207.2485
