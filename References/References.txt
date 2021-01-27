@@ -18,6 +18,7 @@ https://arxiv.org/abs/1010.2745
 *A quantum algorithm to solve nonlinear differential equations
 https://arxiv.org/abs/0812.4423
 
+
 FINITE ELEMENT METHOD
 
 *!Finite Element Solution of Boundary Value Problems
@@ -37,6 +38,7 @@ QUANTUM FEM
 
 *Preconditioned quantum linear system algorithm
 https://arxiv.org/abs/1301.2340
+
 
 QUANTUM FDM
 
