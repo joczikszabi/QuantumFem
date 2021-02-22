@@ -20,3 +20,9 @@ cd cavity
 blockMesh
 icoFoam
 ```
+
+## Examples
+
+#### 1. Flow past a cylinder
+Configuration files and initial values can be found for a flow past a cylinder simulation in the FlowPastCylinder directory including the calculated results (.jpeg and .mp4). The results can also be visualized locally using ParaView.
+To learn more about the simulation and its configuration, check [Studying the Viscous Flow Around a Cylinder Using OpenFOAM](https://github.com/joczikszabi/QuantumFem/blob/master/References/CFD%20Simulations/Kornbleuth_FlowAroundCylinder.pdf)

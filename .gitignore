@@ -1,1 +1,11 @@
 .DS_Store
+
+**/simulations/FlowPastCylinder/*
+**/simulations/cavity/*
+
+!**/simulations/**/0
+!**/simulations/**/system
+!**/simulations/**/results
+!**/simulations/**/constant
+!**/simulations/**/.blockMesh
+!**/simulations/**/.foam
