@@ -1,13 +1,23 @@
-.DS_Store
+# Ignore temporary folders and LFS
+/POD
+/ROM_POD_Algorithm
+/assets
 
+# Only add necessary config files for reproducibility
+simulations/**
+!simulations/**/
+!simulations/**/0/*
+!simulations/**/system/*
+!simulations/**/results/*
+!simulations/**/constant/*
+!simulations/**/*.blockMesh
+!simulations/**/*.foam
+!simulations/**/*.OpenFoam
+!simulations/**/README.md
+
+# Ignore MacOS related files
+**/.DS_Store
+
+# Ignore cache and IDE
 **/.idea
 **/__pycache__/*
-**/simulations/FlowPastCylinder/*
-**/simulations/cavity/*
-
-!**/simulations/**/0
-!**/simulations/**/system
-!**/simulations/**/results
-!**/simulations/**/constant
-!**/simulations/**/.blockMesh
-!**/simulations/**/.foam

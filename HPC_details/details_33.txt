@@ -1,0 +1,16 @@
+Number of snapshots: 250
+Number of pod basis used: 33 (podEnergies.csv: 33,0.0105515,99.91, 1.75875e-05)
+
+podBasisCalc 250 -time 0:3
+runtime = 46 seconds
+
+podPrecompute -time 0:3
+runtime = 13.24 seconds
+
+podROM 33
+runtime = 11.09 seconds
+
+podFlowReconstruct -time 0:3
+runtime = 20.18 seconds
+
+Based on paraView, a similarity can be found between the solutions of the ROM and FOM but there are obvious visible inaccuracies in case of the ROM solutions

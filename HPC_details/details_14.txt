@@ -1,0 +1,16 @@
+Number of snapshots: 250
+Number of pod basis used: 14 (podEnergies.csv: 14,0.149719,99.1068, 0.000249554)
+
+podBasisCalc 250 -time 0:3 :
+runtime = 41.17 seconds
+
+podPrecompute -time 0:3 :
+runtime = 2.38 seconds
+
+podROM 14 :
+runtime = 1.67 seconds
+
+podFlowReconstruct -time 0:3 :
+runtime = 18.36 seconds
+
+Based on paraView, UROM solutions fail to generate accurate stable periodic solutions

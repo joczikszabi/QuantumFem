@@ -1,0 +1,16 @@
+Number of snapshots: 250
+Number of pod basis used: 75 (podEnergies.csv: 75,0.000107091,99.999, 1.78501e-07)
+
+podBasisCalc 250 -time 0:3 :
+runtime = 41.98 seconds
+
+podPrecompute -time 0:3 :
+runtime = 118.11 seconds
+
+podROM 75 :
+runtime = 118.52 seconds
+
+podFlowReconstruct -time 0:3 :
+runtime = 22.37 seconds
+
+Based on paraView, the generated ROM accurately simulates the high-order system, it is flipped around the center horizontally tho

@@ -1,0 +1,8 @@
+MODEL:
+dof: ~45000 cells
+runtime: 171minutes (8 cores)
+
+ROM:
+num_snapshots: 250
+num_pod_basis: 95 (--> 99.9% cumulative energy)
+runtime: 244 seconds / 4 minutes (1 core)

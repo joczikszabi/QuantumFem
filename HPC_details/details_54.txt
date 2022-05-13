@@ -1,0 +1,16 @@
+Number of snapshots: 250
+Number of pod basis used: 54 (podEnergies.csv: 54,0.000973254,99.9904, 1.62224e-06)
+
+podBasisCalc 250 -time 0:3 :
+runtime = 41.13 seconds
+
+podPrecompute -time 0:3 :
+runtime = 46.68 seconds
+
+podROM 54 :
+runtime = 44.7 seconds
+
+podFlowReconstruct -time 0:3 :
+runtime = 21.31 seconds
+
+Based on paraView, completly inaccurate unplausible results..
