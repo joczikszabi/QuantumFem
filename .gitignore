@@ -1,7 +1,6 @@
 # Ignore temporary folders and LFS
 /POD
 /ROM_POD_Algorithm
-/assets
 
 # Only add necessary config files for reproducibility
 simulations/**
